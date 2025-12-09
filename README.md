@@ -10,5 +10,5 @@ The goal of the project is to predict employee attrition using several machine l
 
 - `classification_code.R` – R script used for data preprocessing, model training (GLM, SVM, Neural Network), and evaluation  
 - `employee_attrition.csv` – Dataset used in the analysis  
-- `attrition_report.pdf` – Final report detailing methodology, results, and model comparison  
-- `attrition_slides.pdf` – summary presentation 
+- `attrition_report` – Final report detailing methodology, results, and model comparison  
+- `attrition_slides` – summary presentation 
